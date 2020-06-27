@@ -40,4 +40,4 @@ def get_url_image(query):
 	liste_indices_images = trouve('.jpeg"',result) + trouve('.jpg"',result) +trouve('.png"',result)
 	return sanatize(liste_indices_images,result)
 
-print(get_url_image	("test"))
+print(get_url_image("test"))
