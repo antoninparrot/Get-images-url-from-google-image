@@ -15,5 +15,5 @@ pip install requests
 Just launch the script after editing the line bellow:
 
 ```python
-print(get_url_image	("test"))
+print(get_url_image("test"))
 ```
