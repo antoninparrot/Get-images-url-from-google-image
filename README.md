@@ -1,5 +1,5 @@
 # Get images url from google image
- Get the url of the first page results of google image in python
+ Get the url of the first page images of google image in python
 
 ## Installation
 
